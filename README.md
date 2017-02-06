@@ -15,4 +15,8 @@ BUILD
 Comments:
 "make" - to compile
 "make clean" - to clear executable files
-No deviation from grading guidelines when running the test scripts.
+
+TESTING:
+Test files:
+usctommy.gif
+yeseterday.txt
